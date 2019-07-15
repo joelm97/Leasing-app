@@ -1,2 +1,2 @@
-# School-Projects
-Projects done by me for school assignments
+# Leasing application
+Project done by me for intro to python programming class
